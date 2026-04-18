@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Welcome to VitaBloom Health
 
 TODO: Document your project here
